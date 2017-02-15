@@ -38,38 +38,38 @@
     * Need one to start. Junior should :D
   * Personal stuff.
     * Can not because of real time watching. (lol)
- 4. Play together.
+4. Play together.
   * Break small, break often.
   * Gaming
     * Mobile games
   * Activities
     * play with ball.
   * Interest
-    * Courses, books, knowledge,...
-    
- 5. Share
-   * Don't share girls.
-   * Mindsets
-   * Courses
-   * Feelings
- 6. Keep it for long time.
+   * Courses, books, knowledge,...
+
+5. Share
+  * Don't share girls.
+  * Mindsets
+  * Courses
+  * Feelings
+6. Keep it for long time.
   * It's hard to keep good things for a long long time.
   * But if you built it become a habit, it will stay with you!
- 
- #Keys
- * Communication
- * Communication
- * Communication
- * Open-mind
- * Keep calm and keep using hands
- 
- #Q/A
- * How to harass?
- * What happend when someone's onleave?
- * Someone has bad feelings, sad?
- * Give and receive?
- * Pair-Programming doesn't work for me?
- * Not code smell, people smell.
- * Change to adopt and deny?
- 
- #From EH with Lov3: Long + Phat
+
+#Keys
+  * Communication
+  * Communication
+  * Communication
+  * Open-mind
+  * Keep calm and keep using hands and mouth
+
+#Q/A
+  * How to harass?
+  * What happend when someone's onleave?
+  * Someone has bad feelings, sad?
+  * Give and receive?
+  * Pair-Programming doesn't work for me?
+  * Not code smell, people smell.
+  * Change to adopt and deny?
+
+#From EH with Lov3: Long + Phat
